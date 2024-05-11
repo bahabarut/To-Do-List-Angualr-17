@@ -1,6 +1,6 @@
 import { TaskModel } from './../Models/TaskModel';
 import { NgClass } from '@angular/common';
-import { ChangeDetectionStrategy, ChangeDetectorRef, Component } from '@angular/core';
+import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { filterPipe } from '../Pipes/filter.pipe';
